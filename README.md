@@ -1,7 +1,7 @@
 # Bikesharing with NYC CitiBike data
 
 ## Overview
-The Tableau story can be seen in the link. (https://public.tableau.com/app/profile/huzeyfe.canbaz/viz/NYCCitiBikeAnalysis_16624264577140/NYCCitiBikeAnalysis)
+The Tableau story can be seen in the link. ([https://public.tableau.com/app/profile/huzeyfe.canbaz/viz/NYCCitiBikeAnalysis_16624264577140/NYCCitiBikeAnalysis](https://public.tableau.com/shared/R3CKKSYQR?:display_count=n&:origin=viz_share_link))
 
 The goal for the project wat to analyze bikeshare data from CitiBike in New York City to prepare a presentation for investors looking to begin the same service in Des Moines, Iowa. New York and Des Moines are far away from each other, however, this research gives an idea about the following questions:
 - Who uses bikeshare?
